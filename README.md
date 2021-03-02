@@ -1,8 +1,7 @@
 # Algorithm
 알고리즘 공부
 
-## CodeUpBasic100
-### Python 기초 100제 소스코드<br>
+## CodeUpBasic100: Python 기초 100제 소스코드<br>
 
 | File name | Numbers | Contents |
 |---|:---|:---|
