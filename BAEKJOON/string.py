@@ -43,3 +43,79 @@ else:
     print('?')
   else:
     print(sorted_count[0][0].upper())
+    
+#1152 단어의 개수
+char = input().split()
+print(len(char))
+
+#2908 상수
+numbers = input().split()
+a = int(numbers[0][::-1])
+b = int(numbers[1][::-1])
+print(max(a, b))
+
+#5622 다이얼
+dial = input().lower()
+
+alphabet = list(map(chr, range(97, 123)))
+dial_count = [3,3,3,3,3,4,3,4]
+
+dial_alphabet = []
+j = 0
+k = 0
+for i in dial_count:
+  j += i
+  dial_alphabet.append(alphabet[k:j])
+  k += i
+
+times = 0
+for i in dial:
+  for idx, j in enumerate(dial_alphabet):
+    if i in j:
+      times += idx + 3
+
+print(times)
+
+#2941 크로아티아 알파벳
+word = input()
+
+croatia = ['c=', 'c-', 'dz=', 'd-', 'lj', 'nj', 's=', 'z=']
+
+for i in croatia:
+  if i in word:
+    word = word.replace(i, '*')
+
+print(len(word))
+
+#1316 그룹 단어 체커
+from copy import copy
+
+N = int(input())
+
+words = []
+for i in range(N):
+    words.append(input())
+
+output = copy(words)
+
+for word in words:
+    chars = set(word)
+    
+    for char in chars:
+        breaker = False
+        char_loc = []
+        
+        for idx, alphabet in enumerate(word):
+            if char == alphabet:
+                char_loc.append(idx)
+                
+        for a, b in zip(char_loc, char_loc[1:]):
+            if a+1 != b:
+                output.remove(str(word))
+                breaker = True
+                break
+        if breaker == True:
+            break
+
+print(len(output))
+
