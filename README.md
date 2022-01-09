@@ -1,13 +1,14 @@
 # Algorithm
 알고리즘 공부
+https://github.com/rimiiii/Algorithm/blob/main/programmers/2016%E1%84%82%E1%85%A7%E1%86%AB.py
 
 ## Programmers
 | Contents | Link |
 |---|:---|
-|완주하지 못한 선수| [Link](https://github.com/rimiiii/Algorithm/blob/main/programmers/완주하지못한선수.py)|
-|모의고사| [Link](https://github.com/rimiiii/Algorithm/blob/main/programmers/모의고사.py)|
-|k번째수|[Link](https://github.com/rimiiii/Algorithm/blob/main/programmers/k번째수.py)|
-|2016년|[Link](https://github.com/rimiiii/Algorithm/blob/main/programmers/2016년.py)|
+|완주하지 못한 선수| [Link](https://github.com/rimiiii/Algorithm/blob/main/programmers/%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%8C%E1%85%AE%E1%84%92%E1%85%A1%E1%84%8C%E1%85%B5%E1%84%86%E1%85%A9%E1%86%BA%E1%84%92%E1%85%A1%E1%86%AB%E1%84%89%E1%85%A5%E1%86%AB%E1%84%89%E1%85%AE.py)|
+|모의고사| [Link](https://github.com/rimiiii/Algorithm/blob/main/programmers/%E1%84%86%E1%85%A9%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A9%E1%84%89%E1%85%A1.py)|
+|k번째수|[Link](https://github.com/rimiiii/Algorithm/blob/main/programmers/k%E1%84%87%E1%85%A5%E1%86%AB%E1%84%8D%E1%85%A2%E1%84%89%E1%85%AE.py)|
+|2016년|[Link](https://github.com/rimiiii/Algorithm/blob/main/programmers/2016%E1%84%82%E1%85%A7%E1%86%AB.py)|
 
 ## CodeUpBasic100: Python 기초 100제 소스코드<br>
 
