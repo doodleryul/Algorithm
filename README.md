@@ -1,6 +1,14 @@
 # Algorithm
 알고리즘 공부
 
+## Programmers
+| Contents | Link |
+|---|:---|
+|완주하지 못한 선수| [Link](https://github.com/rimiiii/Algorithm/blob/main/programmers/완주하지못한선수.py)|
+|모의고사| [Link](https://github.com/rimiiii/Algorithm/blob/main/programmers/모의고사.py)|
+|k번째수|[Link](https://github.com/rimiiii/Algorithm/blob/main/programmers/k번째수.py)|
+|2016년|[Link](https://github.com/rimiiii/Algorithm/blob/main/programmers/2016년.py)|
+
 ## CodeUpBasic100: Python 기초 100제 소스코드<br>
 
 | File name | Numbers | Contents |
