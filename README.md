@@ -1,6 +1,5 @@
 # Algorithm
 알고리즘 공부
-https://github.com/rimiiii/Algorithm/blob/main/programmers/2016%E1%84%82%E1%85%A7%E1%86%AB.py
 
 ## Programmers
 | Contents | Link |
